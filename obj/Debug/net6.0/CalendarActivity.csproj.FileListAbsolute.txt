@@ -1,0 +1,15 @@
+C:\Users\JEFFERSON JADOC\source\repos\CalendarActivity\bin\Debug\net6.0\CalendarActivity.exe
+C:\Users\JEFFERSON JADOC\source\repos\CalendarActivity\bin\Debug\net6.0\CalendarActivity.deps.json
+C:\Users\JEFFERSON JADOC\source\repos\CalendarActivity\bin\Debug\net6.0\CalendarActivity.runtimeconfig.json
+C:\Users\JEFFERSON JADOC\source\repos\CalendarActivity\bin\Debug\net6.0\CalendarActivity.dll
+C:\Users\JEFFERSON JADOC\source\repos\CalendarActivity\bin\Debug\net6.0\CalendarActivity.pdb
+C:\Users\JEFFERSON JADOC\source\repos\CalendarActivity\obj\Debug\net6.0\CalendarActivity.csproj.AssemblyReference.cache
+C:\Users\JEFFERSON JADOC\source\repos\CalendarActivity\obj\Debug\net6.0\CalendarActivity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JEFFERSON JADOC\source\repos\CalendarActivity\obj\Debug\net6.0\CalendarActivity.AssemblyInfoInputs.cache
+C:\Users\JEFFERSON JADOC\source\repos\CalendarActivity\obj\Debug\net6.0\CalendarActivity.AssemblyInfo.cs
+C:\Users\JEFFERSON JADOC\source\repos\CalendarActivity\obj\Debug\net6.0\CalendarActivity.csproj.CoreCompileInputs.cache
+C:\Users\JEFFERSON JADOC\source\repos\CalendarActivity\obj\Debug\net6.0\CalendarActivity.dll
+C:\Users\JEFFERSON JADOC\source\repos\CalendarActivity\obj\Debug\net6.0\refint\CalendarActivity.dll
+C:\Users\JEFFERSON JADOC\source\repos\CalendarActivity\obj\Debug\net6.0\CalendarActivity.pdb
+C:\Users\JEFFERSON JADOC\source\repos\CalendarActivity\obj\Debug\net6.0\CalendarActivity.genruntimeconfig.cache
+C:\Users\JEFFERSON JADOC\source\repos\CalendarActivity\obj\Debug\net6.0\ref\CalendarActivity.dll
